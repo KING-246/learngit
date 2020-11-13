@@ -1,0 +1,8 @@
+#include<stdio.h>
+int main()
+{
+	int a=1;
+	char b;
+	if(a<=1)
+	printf("this is a suprise!");
+}
