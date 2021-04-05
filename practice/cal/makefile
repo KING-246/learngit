@@ -5,7 +5,7 @@ calc:main.c ioput.c calc.c
 
 clean:
 	@echo "=====clean  project======"
-	del *.o
+	del *.exe
 	@echo "=====clean completed====="
 
  
